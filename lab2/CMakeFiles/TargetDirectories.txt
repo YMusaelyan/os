@@ -1,0 +1,4 @@
+/home/yarik/os/lab2/CMakeFiles/main.dir
+/home/yarik/os/lab2/CMakeFiles/child.dir
+/home/yarik/os/lab2/CMakeFiles/edit_cache.dir
+/home/yarik/os/lab2/CMakeFiles/rebuild_cache.dir
