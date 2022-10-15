@@ -29,7 +29,7 @@ int main(int argc, char *argv[]){
     pipefd[0] = atoi(argv[1]);
     pipefd[1] = atoi(argv[2]);
 
-    int file = stoi(argv[0]);
+    int file = atoi(argv[0]);
     
     if (dup2(file, 0) == -1) {
         cerr << "error dub\n";
