@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.8 FATAL_ERROR)
 project(main LANGUAGES CXX)
 
-set(BUILD_WITH_ASAN 0)
+set(BUILD_WITH_ASAN 1)
 set(CMAKE_CXX_FLAGS "-fsanitize=address -ldl -lrt -lpthread")
 
 add_library(
