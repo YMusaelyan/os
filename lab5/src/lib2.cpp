@@ -27,7 +27,6 @@ extern "C" int PrimeCount(int A, int B) {
     	}
     	if (mas[i] != 0) {
     		cnt++;
-    		cout << i << endl;
     	}
     }
     return cnt;

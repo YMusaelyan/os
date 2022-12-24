@@ -61,7 +61,7 @@ int main()
 			return 0;
 		}
 
-		cout << "Enter 1 or 2 to select a function or 0 or -1 to exit" << endl;
+		cout << "Enter 1 or 2 to select a function or -1 to exit or 0 switch to library" << endl;
 		
 	}
 
